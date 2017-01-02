@@ -69,9 +69,10 @@ var mintKeyboardShortcutsMain = function() {
 	});
 
 	// Toggle various transaction tags once the editor is open.
-	setTagKey('t', 'Tax Related');
-	setTagKey('b', 'Business');
-	setTagKey('r', 'Reimbursable');
+	setTagKey('s', 'Sarah');
+	setTagKey('m', 'Matt');
+	setTagKey('w', 'Work');
+	setTagKey('o', 'OK');
 };
 
 
