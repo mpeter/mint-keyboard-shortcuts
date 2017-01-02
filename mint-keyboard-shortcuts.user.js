@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name Mint.com Keyboard Shortcuts
 // @description Adds a few simple keyboard shortcuts to Mint.com.
-// @downloadURL http://github.com/schvenk/mint-keyboard-shortcuts
-// @version 1.0
+// @downloadURL http://github.com/mpeter/mint-keyboard-shortcuts
+// @version 1.1
 // @author Dave Feldman (http://operationproject.com)
-// @match https://wwws.mint.com/transaction.event*
+// @match https://mint.intuit.com/transaction.event*
 // ==/UserScript==
 
 /* Licensed under the MIT License (http://opensource.org/licenses/MIT), though I'm not gonna
