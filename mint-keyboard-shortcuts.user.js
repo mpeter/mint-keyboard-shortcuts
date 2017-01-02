@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name Mint.com Keyboard Shortcuts
 // @description Adds a few simple keyboard shortcuts to Mint.com.
-// @downloadURL http://github.com/mpeter/mint-keyboard-shortcuts
-// @version 1.1
-// @author Dave Feldman (http://operationproject.com)
-// @author Matt Peter (mpeter@gmail.com)
+// @downloadURL https://github.com/mpeter/mint-keyboard-shortcuts/raw/master/mint-keyboard-shortcuts.user.js
+// @version 1.2
+// @author Dave Feldman (http://operationproject.com) / Matt Peter (mpeter@gmail.com)
 // @match https://mint.intuit.com/transaction.event*
 // @require https://cdn.rawgit.com/madrobby/keymaster/master/keymaster.js
 // ==/UserScript==
